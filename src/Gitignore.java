@@ -4,5 +4,6 @@ public class Gitignore {
         System.out.println("git ignore deneme 2");
         System.out.println("git ignore deneme 3 master");
         System.out.println("git ignore deneme 34master");
+        System.out.println("git ignore deneme 4master");
     }
 }
